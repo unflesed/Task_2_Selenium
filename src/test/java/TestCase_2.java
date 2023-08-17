@@ -4,7 +4,6 @@ import project.browser.Browser;
 import project.driver.Driver;
 import project.pages.MainPage;
 import project.pages.PassportPage;
-import project.pages.SearchPage;
 
 public class TestCase_2 extends BaseTest{
     public static final String URL = "https://yandex.ru/";
